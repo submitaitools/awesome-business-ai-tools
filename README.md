@@ -39,6 +39,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Elicit](https://elicit.org/)
 - [ResearchRabbit](https://www.researchrabbit.ai/)
 - [Scholarcy](https://www.scholarcy.com/)
+- [MindMap AI](https://mindmapai.app/research-to-mindmap)
 
 ---
 
