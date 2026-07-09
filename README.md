@@ -147,6 +147,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Describely](https://www.describely.ai/)
 - [Shopify Magic](https://www.shopify.com/magic)
 - [MarbleFlows](https://marbleflows.com/)
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 ---
 
