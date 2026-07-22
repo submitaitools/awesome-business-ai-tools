@@ -147,6 +147,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Describely](https://www.describely.ai/)
 - [Shopify Magic](https://www.shopify.com/magic)
 - [MarbleFlows](https://marbleflows.com/)
+- [Marketing Studio](https://github.com/AtlasCloudAI/atlas-marketing-studio) — Open-source, self-hostable AI ad studio for e-commerce teams to create and test UGC product ads, reference-ad remakes, short drama ads, and comedy skits.
 
 ---
 
