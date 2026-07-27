@@ -10,6 +10,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 **Description:** Generate unique, data-backed startup or business ideas using AI based on trends and niches.
 
 **Top Tools:**
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [IdeasAI](https://ideasai.com/)
 - [BizIdeas](https://bizideas.ai/)
 - [GetIdeas.ai](https://getideas.ai/)
