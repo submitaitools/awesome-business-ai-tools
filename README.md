@@ -15,6 +15,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [GetIdeas.ai](https://getideas.ai/)
 - [SaaS AI Ideas](https://www.saasideas.ai/)
 - [Startup Builder by BuildAI](https://www.buildai.space/)
+- [IdeaHunter](https://ideahunter.today/)
 
 ---
 
