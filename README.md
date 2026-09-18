@@ -39,6 +39,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Elicit](https://elicit.org/)
 - [ResearchRabbit](https://www.researchrabbit.ai/)
 - [Scholarcy](https://www.scholarcy.com/)
+- [Orkas](https://orkas.ai/?source=gh_sabiz) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. Supports research and document workflows.
 
 ---
 
