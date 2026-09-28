@@ -147,6 +147,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Describely](https://www.describely.ai/)
 - [Shopify Magic](https://www.shopify.com/magic)
 - [MarbleFlows](https://marbleflows.com/)
+- [Raphael AI](https://raphael.app) — AI product photos and brand visuals for e-commerce
 
 ---
 
