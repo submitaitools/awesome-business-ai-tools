@@ -144,6 +144,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 **Top Tools:**
 - [Jasper AI for E-commerce](https://www.jasper.ai/)
 - [CopyMonkey](https://copymonkey.ai/)
+- [AdVariq](https://advariq.com/) - AI ad creative and visual generator for e-commerce stores, DTC brands, and sellers.
 - [Describely](https://www.describely.ai/)
 - [Shopify Magic](https://www.shopify.com/magic)
 - [MarbleFlows](https://marbleflows.com/)
